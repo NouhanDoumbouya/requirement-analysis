@@ -96,7 +96,7 @@ Use Case Diagrams are a type of behavioral diagram in the Unified Modeling Langu
 
 Below is a basic use case diagram illustrating interactions between key actors and the booking system:
 
-![Use Case Diagram](alx-booking-uc.png)
+![Use Case Diagram](https://github.com/NouhanDoumbouya/requirement-analysis/blob/main/images/alx-booking-uc.png)
 
 Acceptance Criteria
 -------------------
